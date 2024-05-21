@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b340ab30-1a6d-464b-b5cd-2e4d9ed6be1f}</ProjectGuid>
-    <RootNamespace>compotititon</RootNamespace>
+    <ProjectGuid>{9f7cee27-e1f3-4537-90e2-3b176045c252}</ProjectGuid>
+    <RootNamespace>asosiasi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="compotititon.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="jantung.h" />
-    <ClInclude Include="manusia.h" />
+    <ClCompile Include="asosiasi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
