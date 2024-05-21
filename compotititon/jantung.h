@@ -1,1 +1,2 @@
-#pragma once
+#ifndef JANTUNG_H
+#
